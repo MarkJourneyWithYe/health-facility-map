@@ -18,3 +18,7 @@ cd ..
 python3 build_map.py
 cp dashboards/facility_map.html deploy/index.html
 ```
+
+## 라이브
+
+🌐 https://health-facility-map.vercel.app
